@@ -12,7 +12,7 @@ They start with absolute programming basics (Python & Jupyter) and gradually mov
 - **300 — Rutherford Scattering**  
   Various numerical methods and data analysis around the classic scattering experiment: simulate trajectories, fit parameters, and compare with analytic expectations.
 - **400 — Radioactive Decay**  
-  Solve decay differential equations symbolically; use log-plots; apply the ideas to dating methods like *radiocarbon (C-14)*.
+  Solve decay differential equations symbolically; use log-plots; apply the ideas to dating methods like *radiocarbon ($C-14$)*.
 - **500 — Decay Chains**  
   Extend to chains and coupled ODE systems; transient and secular equilibrium; real-world contexts (e.g. background sources like cigarettes).
 - **600 — Monte Carlo Methods**  
