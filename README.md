@@ -6,7 +6,7 @@ They start with absolute programming basics (Python & Jupyter) and gradually mov
 ---
 
 - 100 — Python & Jupyter Basics
-- - Absolute beginner’s track: Python syntax, variables, control flow, functions, plotting,  
+ - Absolute beginner’s track: Python syntax, variables, control flow, functions, plotting,  
 and working effectively in Jupyter notebooks.
 
 ---
