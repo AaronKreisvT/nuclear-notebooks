@@ -2,7 +2,6 @@
 
 The materials are organized into **7 series**, each consisting of **5 notebooks**.  
 They start with absolute programming basics (Python & Jupyter) and gradually move towards topics from nuclear and particle physics.  
-Some notebooks may be work-in-progress while I refine content and examples.
 
 ---
 
